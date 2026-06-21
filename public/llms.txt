@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://magic-eb2a91e4.zappy5.app
+https://example.com
 גלו את מותג האופנה Magic שמציע בגדים מעוצבים בסגנון מודרני וטרנדי. היכנסו עכשיו לאתר והתחילו לעצב את הלוק המושלם שלכם עם הקולקציות הכי חמות בעיר.
 
 ### קודי סגנון
-https://magic-eb2a91e4.zappy5.app/style-codes
+https://example.com/style-codes
 רוצים לדעת איך להתלבש כמו מקצועני אופנה? קודי הסגנון של Magic חושפים את הסודות מאחורי הלוקים הכי נכונים. קראו עכשיו והפכו לאייקון סטייל בעצמכם.
 
 ### אודות מג'יק
-https://magic-eb2a91e4.zappy5.app/about
+https://example.com/about
 הכירו את מג&#39;יק – מותג אופנה שנולד מתוך תשוקה לסטייל נקי, חדשני ומלא אופי. גלו את החזון, הערכים והאנשים שמאחורי הבגדים שישדרגו לכם את המלתחה.
 
 ### צור קשר
-https://magic-eb2a91e4.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על מידה, משלוח או סתם בא לכם לקבל ייעוץ סטיילינג אישי? צרו קשר עם צוות Magic עוד היום ונשמח לעזור לכם למצוא את הפריט המושלם.
 
 ### Products
-https://magic-eb2a91e4.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Magic
 
 ### Cart
-https://magic-eb2a91e4.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://magic-eb2a91e4.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://magic-eb2a91e4.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://magic-eb2a91e4.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://magic-eb2a91e4.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://magic-eb2a91e4.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Magic
 
 ### Category
-https://magic-eb2a91e4.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Magic
 
 ### תודה רבה | ההודעה התקבלה
-https://magic-eb2a91e4.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. קיבלנו את הודעתך ונציג שירות הלקוחות שלנו בתחום אופנה והלבשה יחזור אליך בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://magic-eb2a91e4.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://magic-eb2a91e4.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://magic-eb2a91e4.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://magic-eb2a91e4.zappy5.app/sitemap.xml
-- Robots: https://magic-eb2a91e4.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://magic-eb2a91e4.zappy5.app/llms-full.txt
-- Products (JSON): https://magic-eb2a91e4.zappy5.app/products.json
-- Products (Google Merchant RSS): https://magic-eb2a91e4.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
