@@ -1,0 +1,104 @@
+# Magic — Generative Engine Optimization Map
+
+> A stylish fashion clothing brand with a strong sense of style and trend-forward identity. The business revolves around clothing with a fashionable, modern aesthetic that appeals to style-conscious consumers.
+
+---
+
+## Pages
+
+### בית
+https://magic-eb2a91e4.zappy5.app
+גלו את מותג האופנה Magic שמציע בגדים מעוצבים בסגנון מודרני וטרנדי. היכנסו עכשיו לאתר והתחילו לעצב את הלוק המושלם שלכם עם הקולקציות הכי חמות בעיר.
+
+### קודי סגנון
+https://magic-eb2a91e4.zappy5.app/style-codes
+רוצים לדעת איך להתלבש כמו מקצועני אופנה? קודי הסגנון של Magic חושפים את הסודות מאחורי הלוקים הכי נכונים. קראו עכשיו והפכו לאייקון סטייל בעצמכם.
+
+### אודות מג'יק
+https://magic-eb2a91e4.zappy5.app/about
+הכירו את מג&#39;יק – מותג אופנה שנולד מתוך תשוקה לסטייל נקי, חדשני ומלא אופי. גלו את החזון, הערכים והאנשים שמאחורי הבגדים שישדרגו לכם את המלתחה.
+
+### צור קשר
+https://magic-eb2a91e4.zappy5.app/contact
+יש לכם שאלה על מידה, משלוח או סתם בא לכם לקבל ייעוץ סטיילינג אישי? צרו קשר עם צוות Magic עוד היום ונשמח לעזור לכם למצוא את הפריט המושלם.
+
+### Products
+https://magic-eb2a91e4.zappy5.app/products
+המוצרים שלנו - Magic
+
+### Cart
+https://magic-eb2a91e4.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://magic-eb2a91e4.zappy5.app/checkout
+תשלום
+
+### Login
+https://magic-eb2a91e4.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://magic-eb2a91e4.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://magic-eb2a91e4.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://magic-eb2a91e4.zappy5.app/product/:slug
+פרטי המוצר - Magic
+
+### Category
+https://magic-eb2a91e4.zappy5.app/category/:slug
+מוצרים - Magic
+
+### תודה רבה | ההודעה התקבלה
+https://magic-eb2a91e4.zappy5.app/thank-you
+תודה שפנית אלינו. קיבלנו את הודעתך ונציג שירות הלקוחות שלנו בתחום אופנה והלבשה יחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://magic-eb2a91e4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://magic-eb2a91e4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://magic-eb2a91e4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Magic
+A stylish fashion clothing brand with a strong sense of style and trend-forward identity. The business revolves around clothing with a fashionable, modern aesthetic that appeals to style-conscious consumers.
+
+## Target Audience
+- נוער אופנתי
+- צעירים מקצועיים אופנתיים
+- משפיעני אופנה
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://magic-eb2a91e4.zappy5.app/sitemap.xml
+- Robots: https://magic-eb2a91e4.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://magic-eb2a91e4.zappy5.app/llms-full.txt
+- Products (JSON): https://magic-eb2a91e4.zappy5.app/products.json
+- Products (Google Merchant RSS): https://magic-eb2a91e4.zappy5.app/product-feed.xml
